@@ -1,0 +1,12 @@
+Count is: 1
+Count is: 3
+Count is: 7
+Count is: 15
+Count is: 31
+Count is: 63
+Count is: 127
+Count is: 255
+Count is: 511
+Count is: 1023
+Count is: 2047
+Count is: 4095
